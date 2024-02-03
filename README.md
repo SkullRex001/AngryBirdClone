@@ -1,4 +1,4 @@
-### Angry Bird Clone
+### Flappy Bird Clone
 
 **Link to resources**
 
